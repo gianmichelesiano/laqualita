@@ -162,6 +162,8 @@
                     if ((startTime + duration) > elementTransitionDuration) {
                         elementTransitionDuration = (startTime + duration);
                     }
+					
+					elementTransitionDuration = 5000
 
                     children.push({
                         $element: $(this),

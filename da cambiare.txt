@@ -1,0 +1,4 @@
+					elementTransitionDuration = 500000
+					
+					da cambiare la slide in jquery-pogo-slider
+					linea 166
